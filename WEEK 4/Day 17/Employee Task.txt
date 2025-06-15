@@ -1,0 +1,9 @@
+Use Day 15 report
+1- Create a dashboard using the report
+2- Create an app using the report can publish past reports in the app
+3- Share the report in the organization
+4- Subscribe the report for once in a day at 10:00 am
+5- Share the report to the teams
+6- Set an Alert
+7- Explore the usage metrics and add a chart in the dashboard
+8- Add comment on any chart.

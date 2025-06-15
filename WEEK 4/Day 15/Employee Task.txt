@@ -1,0 +1,5 @@
+Use Day 14 report
+
+1- Create 3 Measures for Billed hours YTD,QTD and MTD. Create a single slicer for all the 3 measures and show the value for each measure in the same card visual. 
+
+3- Publish the report to Power BI service
